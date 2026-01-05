@@ -7,6 +7,6 @@ Here are some of my certifications:
 
 ---
 
-### 🟢 100xdevs ( Full Stack Developer )
+### 🟢 100xdevs ( Web + Devops + BlockChain )
 ![Cohort 3 Certificate](cohort3-100xdevs.png)
 
