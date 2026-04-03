@@ -13,7 +13,6 @@ Here are some of my certifications:
 ---
 
 ### 🟢 Anthropic ( Claude Code in Action )
-[🏅 View Certificate](https://verify.skilljar.com/c/bf5pxkmupcx6) · Issued: April 3, 2026
+[🏅 View Certificate](https://verify.skilljar.com/c/bf5pxkmupcx6) · Issued: April 3, 2026  certificate-bf5pxkmupcx6-1775210503.pdf
 
-[<img src="certificate-bf5pxkmupcx6-1775210503.pdf" alt="Claude Code in Action Certificate" width="600"/>](https://verify.skilljar.com/c/bf5pxkmupcx6)
-
+!Claude Code in Action[ Certificate](certificate-bf5pxkmupcx6-1775210503.pdf)
